@@ -7,5 +7,10 @@ public class Program1 {
 			System.out.println(fruit);
 		}
 		System.out.println("All the fruits have been displayed");
+		String names[]  = {"aalia","shajin","padmini","vidhu","varsha"};
+		for(String name : names) {
+			System.out.println(name);
+		}
+		System.out.println("All the names have been displayed");
 	}
 }
