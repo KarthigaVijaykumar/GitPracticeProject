@@ -12,5 +12,7 @@ public class Program1 {
 			System.out.println(name);
 		}
 		System.out.println("All the names have been displayed");
+		System.out.println("program successfully merged");
+		
 	}
 }
